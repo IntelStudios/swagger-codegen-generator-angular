@@ -5,7 +5,7 @@
     <artifactId>angularEnums-swagger-codegen</artifactId>
     <packaging>jar</packaging>
     <name>angularEnums-swagger-codegen</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <repositories>
         <repository>
             <id>DXFeed</id>
